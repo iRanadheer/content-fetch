@@ -7,7 +7,6 @@ You can install the package by running the following command
 
 ```
 pip install contentfetch
-
 ```
 
 
@@ -27,7 +26,6 @@ from contentfetch import extract_content
 results_json = extract_content(html=<html_file>)
 
 results_json
-
 ```
 
 Please refer to the code snippet for parsing the text from the webpage through URL
